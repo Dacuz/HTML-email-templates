@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>~MESSAGE.SUBJECT~</title>
+<style type="text/css" media="screen">
+/* CSS reset */
+body, p{margin:0; padding:0; margin-bottom:0; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;} img{line-height:100%; outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} a img{border: none;} #backgroundTable {margin:0; padding:0; width:100% !important; } a, a:link{color:#2c6fba; text-decoration: underline;} .ExternalClass {display: block !important; width:100%;} .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } table td {border-collapse:collapse;} sup{position: relative; top: 4px; line-height:7px !important;font-size:11px !important;} .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {text-decoration: default; color: #5b5e5e !important; /* set link color */ pointer-events: auto; cursor: default;} .no-detect a{text-decoration: none; color: #5b5e5e; /* set text color */ pointer-events: auto; cursor: default;} .no-detect-local a{color: #5b5e5e;} span {color: inherit; border-bottom: none;} span:hover { background-color: transparent;}
+
+/* CSS for 2-column view */
+@media only screen and (max-width: 960px) {
+body[yahoo] .container {width: 640px; min-width: 640px !important;}
+body[yahoo] .appwidth {width: 640px; min-width: 640px !important;}
+body[yahoo] .side {display: none !important;}
+body[yahoo] .toptxt {font-size: 12px !important;}
+body[yahoo] .mobwidth15 {width: 15px !important;}
+/* variable content  */
+
+}
+
+/* CSS for mobile view */
+@media only screen and (max-width: 640px) {
+body[yahoo] .mobpadding {padding: 0 10px;}
+body[yahoo] .container {width: 320px; min-width: 320px !important; padding: 0 5px;}
+body[yahoo] .appwidth {width: 320px; min-width: 320px !important;}
+body[yahoo] .floatleft {float: left;}
+body[yahoo] .floatright {float: right;}
+body[yahoo] .elastic {-ms-interpolation-mode: bicubic; width: 100%; min-width: 320px; max-width: 640px;}
+body[yahoo] .webonly {display: none !important;}
+body[yahoo] .toggle {display: block !important; height: auto !important; width: auto !important;}
+body[yahoo] .prehdr_lft {display: none !important;}
+body[yahoo] .prehdr_rgt {width: 280px !important;}
+body[yahoo] .side {display: none !important;}
+body[yahoo] .topborder {border-top: 10px solid #ffffff;}
+body[yahoo] .mobwidth20 {width: 20px !important;}
+body[yahoo] .mobheight10 {height: 10px;}
+body[yahoo] .mobheight30 {height: 30px;}
+body[yahoo] .ftrtxt {line-height: 18px !important; padding-bottom: 20px;}
+/* variable content  */
+
+}
+</style>
+</head>
+
+<body yahoo="fix">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+    	<td align="center">
+            <!-- PREHEADER -->
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" class="mobpadding">
+                <tr>
+                	<td align="center">
+                    	<table cellpadding="0" cellspacing="0" border="0" width="960" align="center" bgcolor="#f3f3f3" class="container">
+                            <tr>
+                                <td width="30" class="mobwidth20"></td>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" border="0" align="left" class="prehdr_lft">
+                                        <tr>
+                                            <td height="30" align="left" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #a6a9aa;" class="prehdrtxt">This is an example of a preheadertext. </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <table cellpadding="0" cellspacing="0" border="0" align="right" class="prehdr_rgt">
+                                        <tr>
+                                            <td height="30" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #a6a9aa;" class="prehdrtxt"><div id="MASECTION" MACONSTRAINT="SYSTEM.MAIL=1"><a href="~PROBE(0)~" target="_blank" style="color: #a6a9aa;">Online Version anschauen</a></div></td>
+                                        </tr>
+                                    </table>
+                            	</td>
+                                <td width="30" class="mobwidth20"></td>
+                            </tr>
+                        </table>
+					</td>
+				</tr>
+            </table>
+            <!-- /PREHEADER -->
+            <!-- TOP -->
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" class="mobpadding">
+                <tr>
+                	<td align="center">
+                    	<table cellpadding="0" cellspacing="0" border="0" width="960" bgcolor="#0057a4" align="center" class="container">
+                            <tr>
+                                <td width="30" class="mobwidth20"></td>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" border="0" align="left">
+                                        <tr>
+                                            <td height="60" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #ffffff; font-weight: bold; text-transform: uppercase;"><a href="~PROBE(100)~" target="_blank" style="color: #ffffff; text-decoration: none;"><img src="http://eu.my-samsung.com/images/yz/coe/template/hdrlogo_samsung.gif" width="130" height="20" alt="Samsung" border="0" style="display: block;" /></a></td>
+                                            <td width="30"></td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <table cellpadding="0" cellspacing="0" border="0" align="left" class="webonly">
+                                        <tr>
+                                            <td height="60" valign="middle" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #ffffff; text-transform: uppercase;" class="toptxt aligntop mobheight30"><a href="~PROBE(101)~" target="_blank" style="color: #ffffff; text-decoration: none;">Produkte</a></td>
+                                            <td width="30" class="mobwidth15"></td>
+                                            <td valign="middle" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #ffffff; text-transform: uppercase;" class="toptxt aligntop"><a href="~PROBE(102)~" target="_blank" style="color: #ffffff; text-decoration: none;">Promotions</a></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="25" class="mobwidth20"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                	<td height="20" align="center" class="mobheight10"><img src="http://eu.my-samsung.com/images/yz/coe/template/glass.gif" width="960" height="5" alt="" style="display:block; min-width: 960px;" class="appwidth" /></td>
+                </tr>
+            </table>
+            <!-- /TOP -->
+           	<!-- MAIN CONTAINER -->
+            <table cellpadding="0" cellspacing="0" border="0" width="960" align="center" class="container">
+                <tr>
+                	<td valign="top">
+                    	<!-- ITEMS COL A & B -->
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                            	<td valign="top">Main content here</td>
+                            </tr>
+                        </table>
+                        <!-- /ITEMS COL A & B -->
+                    </td>
+                    <td valign="top" class="side">
+                    	<!-- ITEMS COL C -->
+                        <table cellpadding="0" cellspacing="0" border="0" width="320">
+                            <tr>
+                                <td>Side content here</td>
+                            </tr>
+                        </table>
+                        <!-- /ITEMS COL C -->
+                    </td>
+                </tr>
+			</table>
+            <!-- /MAIN CONTAINER -->
+            <!-- FOOTER -->
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" class="mobpadding">
+                <tr>
+                	<td align="center">
+                    	<table cellpadding="0" cellspacing="0" border="0" width="960" align="center" bgcolor="#f9f9f9" class="container">
+                            <tr>
+                                <td colspan="3" height="20"></td>
+                            </tr>
+                            <tr>
+                                <td width="30" class="mobwidth20"></td>
+                                <td>
+                                    <!--[if gte mso 9]>
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    	<tr>
+                                    		<td valign="top">
+                                    <![endif]-->
+                                    <table cellpadding="0" cellspacing="0" border="0" align="left">
+                                        <tr>
+                                            <td height="30" valign="middle" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #5b5e5e; text-transform: uppercase;"><a href="~PROBE(300)~" target="_blank" style="color: #5b5e5e; text-decoration: none;">Kontakt</a></td>
+                                            <td width="46" class="webonly"></td>
+                                            <td valign="middle" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #5b5e5e; text-transform: uppercase;" class="webonly"><a href="~PROBE(301)~" target="_blank" style="color: #5b5e5e; text-decoration: none;">Support</a></td>
+                                            <td width="46" class="webonly"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if gte mso 9]>
+                                    		</td>
+                                    		<td valign="top">
+                                    <![endif]-->
+                                    <table cellpadding="0" cellspacing="0" border="0" align="right">
+                                        <tr>
+                                            <td><a href="~PROBE(310)~" target="_blank" style="color: #5b5e5e; text-decoration: none;" title="Facebook"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftricon_fb.gif" width="30" height="30" alt="" border="0" style="display: block;" /></a></td>
+                                            <td width="2"></td>
+                                            <td><a href="~PROBE(311)~" target="_blank" style="color: #5b5e5e; text-decoration: none;" title="Twitter"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftricon_tw.gif" width="30" height="30" alt="" border="0" style="display: block;" /></a></td>
+                                            <td width="2"></td>
+                                            <td><a href="~PROBE(313)~" target="_blank" style="color: #5b5e5e; text-decoration: none;" title="Instagram"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftricon_ig.gif" width="30" height="30" alt="" border="0" style="display: block;" /></a></td>
+                                            <td width="2"></td>
+                                            <td><a href="~PROBE(314)~" target="_blank" style="color: #5b5e5e; text-decoration: none;" title="Youtube"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftricon_yt.gif" width="30" height="30" alt="" border="0" style="display: block;" /></a></td>
+                                            <td width="320" class="side"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if gte mso 9]>
+                                    		</td>	
+                                    	</tr> 
+                                    </table>
+                                    <![endif]-->
+                            	</td>
+                                <td width="30" class="mobwidth20"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" height="20"></td>
+                            </tr>
+                        </table>
+					</td>
+				</tr>
+                <tr>
+                	<td align="center">
+                    	<table cellpadding="0" cellspacing="0" border="0" width="960" align="center" bgcolor="#f3f3f3" class="container">
+                            <tr>
+                            	<td colspan="3" height="20"></td>
+                            </tr>
+                            <tr>
+                                <td width="30" class="mobwidth20"></td>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" border="0">
+                                        <tr>
+                                        	<td>
+                                            	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                	<tr>
+                                                        <td align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #a6a9aa;" class="ftrtxt">Sie erhalten dieses E-Mail von Samsung Electronics Austria GmbH im Namen von Samsung Electronics Europe (Samsung Electronics (UK) Ltd.), da Sie sich über Samsung Account (<a href="~PROBE(322)~" target="_blank" style="color: #a6a9aa;">www.account.samsung.com</a>) für mehr Informationen von uns angemeldet haben. Um Ihre Interessen zu aktualisieren, klicken Sie bitte <a href="~PROBE(320)~" target="_blank" style="color: #a6a9aa;">hier</a>. Um sich von unserer Kommunikation abzumelden, klicken Sie bitte <a href="~PROBE(321)~" target="_blank" style="color: #a6a9aa;">hier</a>.
+                                                        <br /><br />
+                                            			Samsung Electronics (UK) Ltd. Ist eine in England und Wales unter der Registernummer 03086621 eingetragene Gesellschaft mit beschränkter Haftung mit Sitz in Samsung House, 1000 Hillswood Drive, Chertsey, Surrey, KT16 0PS, UK.</td>
+                                                        <td width="30" class="webonly"></td>
+                                                        <td align="right" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #2c6fba; font-weight: bold; text-transform: uppercase;" class="webonly"><a href="~PROBE(330)~" target="_blank" style="color: #2c6fba; text-decoration: none;"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftrlogo_samsung.gif" width="130" height="20" alt="Samsung" border="0" style="display: block;" /></a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                			<td align="right" height="1" style="line-height: 1px;">
+                                                <!--[if !mso]><!-->
+                                                <span style="display: none;" class="toggle"><a href="~PROBE(330)~" target="_blank" style="color: #2c6fba; text-decoration: none;"><img src="http://eu.my-samsung.com/images/yz/coe/template/ftrlogo_samsung.gif" width="0" height="0" alt="" style="border: 0px currentColor; display: none;" class="toggle" /></a></span>
+                                                <!--<![endif]-->
+                                            </td> 
+                                        </tr>
+                                    </table>
+                            	</td>
+                                <td width="30" class="mobwidth20"></td>
+                            </tr>
+                            <tr>
+                            	<td colspan="3" height="20"></td>
+                            </tr>
+                        </table>
+					</td>
+				</tr>
+            </table>
+            <!-- /FOOTER -->
+        </td>
+    </tr>
+    <tr>
+        <td height="30"></td>
+    </tr>
+</table>
+
+</body>
+</html>
